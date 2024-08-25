@@ -14,10 +14,8 @@
 ###############################################################################
 library(R2jags)
 
-setwd("U:\\Desktop\\Fish_Git\\Marginalized")
 source(paste0(getwd(),"/Functions.R"), chdir = F)
-
-setwd(paste0(getwd(), '/Application_6'))
+setwd(paste0(getwd(), '/Application_4'))
 
 #-----------------------------------------------------------------------------#
 # read in data
