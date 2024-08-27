@@ -11,7 +11,6 @@
 #
 ###############################################################################
 library(R2jags)
-setwd("U:\\Desktop\\Fish_Git\\Marginalized")
 
 setwd(paste0(getwd(), '/Application_3'))
 
